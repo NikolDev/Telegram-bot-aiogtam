@@ -4,7 +4,7 @@ import markups as nav
 
 import random
 
-TOKEN = '5457559759:AAHErKuopsbNNsZomX0V1owpuryPOABI76g'
+TOKEN = 'Here your token'
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
