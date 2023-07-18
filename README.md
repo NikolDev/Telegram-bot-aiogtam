@@ -1,6 +1,6 @@
 <h1>Telegram-bot-on-aiogram-with-menu-and-buttons</h1>
-Not a big telegram bot created in Python with the ability to change data. It has a menu, menu navigation, and buttons.
-
+<h3>This is not a big telegram bot created in Python with the ability to change data. It has a menu, menu navigation, and buttons.</h3>
+<img src='/pyth.png' alt='python image' width='1080' height='500'>
 
 First you need to install all the necessary files
 <a href='https://pypi.org/project/aiogram/'>aiogram</a>
